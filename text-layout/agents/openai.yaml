@@ -1,0 +1,4 @@
+interface:
+  display_name: "文本排版规范"
+  short_description: "依据个人文本规范排版和检查中文 Word 文档的标题正文及图表"
+  default_prompt: "请使用 $text-layout，按我的文本排版规范整理这份文档，保留原意，并检查标题、正文、图表、题注和页眉页码。"

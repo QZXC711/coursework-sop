@@ -1,0 +1,237 @@
+{
+  "source": "source-standard.png",
+  "source_sha256": "6f18505a105ef10daecefee836ccd68aec36fe106e65d30fe59db37006875475",
+  "source_size_px": [
+    1982,
+    1220
+  ],
+  "color_space": "sRGB",
+  "sampling": {
+    "method": "Convert embedded ICC profile to sRGB, then take each channel median in a central 31 x 31 px patch.",
+    "embedded_icc_converted": true,
+    "origin": "Top-left; x rightward, y downward.",
+    "precision_note": "Representative sampled colors from supplied screenshot, not original authoring-file colors."
+  },
+  "defaults": {
+    "palette": 1,
+    "large_title": false,
+    "png_dpi": 600,
+    "formats": [
+      "png",
+      "svg"
+    ],
+    "svg_editable_objects": true
+  },
+  "palettes": {
+    "1": {
+      "label": "1号色卡",
+      "swatches": [
+        {
+          "position": 1,
+          "hex": "#FFD1DB",
+          "rgb": [
+            255,
+            209,
+            219
+          ],
+          "sample_center_xy": [
+            1199,
+            539
+          ]
+        },
+        {
+          "position": 2,
+          "hex": "#FFD4A8",
+          "rgb": [
+            255,
+            212,
+            168
+          ],
+          "sample_center_xy": [
+            1344,
+            539
+          ]
+        },
+        {
+          "position": 3,
+          "hex": "#FFF8D3",
+          "rgb": [
+            255,
+            248,
+            211
+          ],
+          "sample_center_xy": [
+            1490,
+            539
+          ]
+        },
+        {
+          "position": 4,
+          "hex": "#D4F0FF",
+          "rgb": [
+            212,
+            240,
+            255
+          ],
+          "sample_center_xy": [
+            1635,
+            539
+          ]
+        },
+        {
+          "position": 5,
+          "hex": "#D0CCFF",
+          "rgb": [
+            208,
+            204,
+            255
+          ],
+          "sample_center_xy": [
+            1781,
+            539
+          ]
+        }
+      ]
+    },
+    "2": {
+      "label": "2号色卡",
+      "swatches": [
+        {
+          "position": 1,
+          "hex": "#E15D57",
+          "rgb": [
+            225,
+            93,
+            87
+          ],
+          "sample_center_xy": [
+            1199,
+            675
+          ]
+        },
+        {
+          "position": 2,
+          "hex": "#FAAA68",
+          "rgb": [
+            250,
+            170,
+            104
+          ],
+          "sample_center_xy": [
+            1344,
+            675
+          ]
+        },
+        {
+          "position": 3,
+          "hex": "#F7D181",
+          "rgb": [
+            247,
+            209,
+            129
+          ],
+          "sample_center_xy": [
+            1490,
+            675
+          ]
+        },
+        {
+          "position": 4,
+          "hex": "#6BB1E5",
+          "rgb": [
+            107,
+            177,
+            229
+          ],
+          "sample_center_xy": [
+            1635,
+            675
+          ]
+        },
+        {
+          "position": 5,
+          "hex": "#4B70B5",
+          "rgb": [
+            75,
+            112,
+            181
+          ],
+          "sample_center_xy": [
+            1781,
+            675
+          ]
+        }
+      ]
+    },
+    "3": {
+      "label": "3号色卡",
+      "swatches": [
+        {
+          "position": 1,
+          "hex": "#DF86A9",
+          "rgb": [
+            223,
+            134,
+            169
+          ],
+          "sample_center_xy": [
+            1199,
+            811
+          ]
+        },
+        {
+          "position": 2,
+          "hex": "#FEEAEC",
+          "rgb": [
+            254,
+            234,
+            236
+          ],
+          "sample_center_xy": [
+            1344,
+            811
+          ]
+        },
+        {
+          "position": 3,
+          "hex": "#64ADD3",
+          "rgb": [
+            100,
+            173,
+            211
+          ],
+          "sample_center_xy": [
+            1490,
+            811
+          ]
+        },
+        {
+          "position": 4,
+          "hex": "#A0C7EB",
+          "rgb": [
+            160,
+            199,
+            235
+          ],
+          "sample_center_xy": [
+            1635,
+            811
+          ]
+        },
+        {
+          "position": 5,
+          "hex": "#E1EBF9",
+          "rgb": [
+            225,
+            235,
+            249
+          ],
+          "sample_center_xy": [
+            1781,
+            811
+          ]
+        }
+      ]
+    }
+  }
+}

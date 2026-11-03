@@ -1,0 +1,4 @@
+interface:
+  display_name: "制图标准"
+  short_description: "先确认文字思路与色卡标题，再按个人标准生成高清及可编辑配图"
+  default_prompt: "请使用 $drawing-standard，先给出绘图的文字思路供我确认，同时确认色卡和是否需要大标题；默认1号色卡、无大标题，确认后输出600 dpi PNG和可编辑SVG。"
