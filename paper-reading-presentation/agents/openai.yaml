@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文阅读汇报"
+  short_description: "先定大纲再逐页指导论文汇报，核对原图公式与来源，简化重绘图表并汇总讲稿"
+  default_prompt: "使用 $paper-reading-presentation 帮我准备论文阅读汇报：先设计大纲，再逐页安排原图、公式、来源和讲稿；未指定语言时默认中文。"
